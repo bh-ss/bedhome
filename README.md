@@ -1,3 +1,6 @@
+# I am no longer maintaining this project. Please see @HeroiCraft's repository.
+
+
 Teleport to your bed using /bed. Your bed is saved when you sleep in it.
 
 
