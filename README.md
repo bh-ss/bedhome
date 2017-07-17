@@ -1,4 +1,4 @@
-# I am no longer maintaining this project. Please see @HeroiCraft's repository.
+# I am no longer maintaining this project. Please see @HeroCC's [repository](https://github.com/HeroCC/BedHome).
 
 
 Teleport to your bed using /bed. Your bed is saved when you sleep in it.
